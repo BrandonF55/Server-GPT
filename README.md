@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+
+to run the server. js file node server.js
+website https://www.codingthesmartway.com/how-to-use-chatgpt-with-react/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
